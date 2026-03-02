@@ -1,7 +1,7 @@
 {
 	"name": "@zokugun/log-update-plus",
 	"description": "Update the terminal line in place. Ideal for progress bars, animations, and live-updating status",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"author": {
 		"name": "Baptiste Augrain",
 		"email": "daiyam@zokugun.org"
