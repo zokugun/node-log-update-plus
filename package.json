@@ -94,5 +94,9 @@
 			"undici": "7.28.0"
 		}
 	},
+	"allowScripts": {
+		"fsevents": true,
+		"@zokugun/cli-utils": true
+	},
 	"keywords": []
 }
